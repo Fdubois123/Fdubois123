@@ -32,7 +32,7 @@
 
 </div>
 
-<hr/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,20,30&height=70&section=header&animation=twinkling" width="100%" alt="Animated Cyber Divider" />
 
 <!-- ==================== 🌟 ABOUT ME & 3D CYBER DEVELOPER ==================== -->
 <table width="100%" border="0" style="border-collapse: collapse;">
@@ -54,7 +54,7 @@
   </tr>
 </table>
 
-<hr/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,20,30&height=70&section=header&animation=twinkling" width="100%" alt="Animated Cyber Divider" />
 
 <div align="center">
   <h2>🛠️ MASTER TECH MATRIX & ARSENAL</h2>
@@ -151,41 +151,51 @@
     </tr>
   </table>
 
-</div>
-
-<hr/>
-
-<!-- ==================== 🚀 FEATURED PROJECTS & FLAGSHIP CREATIONS ==================== -->
-<div align="center">
-  <h2>🚀 FEATURED PROJECTS & FLAGSHIP CREATIONS</h2>
-  <p><i>Highlighted engineering projects spanning AI systems, scalable cloud platforms, and modern web apps</i></p>
   <br/>
 
-  <table width="100%" border="0" style="border-collapse: collapse;">
+  <!-- ==================== 🐍 CONTRIBUTION SNAKE GAME ANIMATION ==================== -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,20,30&height=70&section=header&animation=twinkling" width="100%" alt="Animated Cyber Divider" />
+
+<!-- ==================== 🚀 FEATURED REPOSITORIES & INNOVATIONS ==================== -->
+<div align="center">
+  <h2>🚀 FEATURED REPOSITORIES & INNOVATIONS</h2>
+  <p><i>Core engineering creations, algorithmic models, and distributed systems</i></p>
+  <br/>
+
+  <table width="100%" border="0" style="border-collapse: separate; border-spacing: 12px;">
     <tr>
       <!-- Project 1 -->
-      <td width="50%" valign="top" style="padding: 14px; background: rgba(13, 17, 23, 0.85); border: 1px solid #21262d; border-radius: 10px;">
-        <h3>🌱 <a href="https://github.com/Fdubois123">AgriSmart AI</a></h3>
-        <p><i>Intelligent Precision Agriculture & Crop Recommendation Platform</i></p>
-        <p>Leverages machine learning models, real-time sensor telemetry, and weather analytics to provide predictive crop recommendations and soil health optimization.</p>
-        <p>
-          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <td width="50%" valign="top" style="padding: 18px; background: #0d1117; border: 1px solid #30363d; border-radius: 12px;">
+        <p align="left"><b>🧠 <a href="https://github.com/Fdubois123/neuro-silicon-symbiosis">neuro-silicon-symbiosis</a></b></p>
+        <p align="left" style="font-size: 13px; color: #8b949e;">
+          Bio-inspired neuromorphic computing paradigms and deep neural simulations bridging biological intelligence with silicon hardware acceleration.
+        </p>
+        <br/>
+        <p align="left">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=pytorch,python,opencv&theme=dark" height="32" alt="Tech" />
+          </a>
         </p>
       </td>
-      <td width="20px"></td>
       <!-- Project 2 -->
-      <td width="50%" valign="top" style="padding: 14px; background: rgba(13, 17, 23, 0.85); border: 1px solid #21262d; border-radius: 10px;">
-        <h3>⚡ <a href="https://github.com/Fdubois123">Intelligent Cloud Agent Engine</a></h3>
-        <p><i>Scalable Distributed Agent & Microservice Framework</i></p>
-        <p>High-throughput backend orchestration engine designed for low-latency AI inference, dynamic task routing, and automated containerized deployments.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <td width="50%" valign="top" style="padding: 18px; background: #0d1117; border: 1px solid #30363d; border-radius: 12px;">
+        <p align="left"><b>📈 <a href="https://github.com/Fdubois123/algorithmic-trading-engine">algorithmic-trading-engine</a></b></p>
+        <p align="left" style="font-size: 13px; color: #8b949e;">
+          High-throughput quantitative automated trading platform featuring real-time financial stream processing, quantitative modeling, and risk optimization.
+        </p>
+        <br/>
+        <p align="left">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=python,fastapi,redis&theme=dark" height="32" alt="Tech" />
+          </a>
         </p>
       </td>
     </tr>
@@ -193,7 +203,7 @@
 
 </div>
 
-<hr/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,20,30&height=70&section=header&animation=twinkling" width="100%" alt="Animated Cyber Divider" />
 
 <!-- ==================== 🎯 ACTIVE FOCUS & ENGINEERING ROADMAP ==================== -->
 <div align="center">
@@ -244,7 +254,7 @@
   - 🛠️ **DevOps & Tooling**: Docker Containerization, GitHub Actions Workflows, Linux Server Management, Git Version Control.
 </details>
 
-<hr/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,20,30&height=70&section=header&animation=twinkling" width="100%" alt="Animated Cyber Divider" />
 
 <!-- ==================== 📬 QUANTUM RADAR & TRANSMISSIONS ==================== -->
 <div align="center">
