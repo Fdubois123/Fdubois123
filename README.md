@@ -31,29 +31,27 @@
 
 <br/>
 
-<!-- ==================== 🧬 HOLOGRAM IDENTITY CARD & 3D AVATAR ==================== -->
-<table align="center" width="100%" style="background-color: #0b0f19; border: 1px solid #1f293d; border-radius: 12px;">
+<!-- ==================== 🌟 ABOUT ME & 3D CYBER DEVELOPER ==================== -->
+<table width="100%" border="0" style="border-collapse: collapse;">
   <tr>
-    <td width="55%" valign="top" style="padding: 20px;">
-      <h3>⚡ <code>[IDENTITY_KERNEL_INIT]</code></h3>
-      <br/>
-      <pre><code><span style="color: #ff7b72;">const</span> <span style="color: #79c0ff;">Developer</span> = {
-  <span style="color: #7ee787;">name</span>: <span style="color: #a5d6ff;">"Saptarshi Maiti"</span>,
-  <span style="color: #7ee787;">alias</span>: <span style="color: #a5d6ff;">"Fdubois123"</span>,
-  <span style="color: #7ee787;">role</span>: <span style="color: #a5d6ff;">"Full-Stack Architect & AI Specialist"</span>,
-  <span style="color: #7ee787;">stack</span>: [<span style="color: #a5d6ff;">"Next.js"</span>, <span style="color: #a5d6ff;">"React"</span>, <span style="color: #a5d6ff;">"TypeScript"</span>, <span style="color: #a5d6ff;">"Python"</span>, <span style="color: #a5d6ff;">"PyTorch"</span>, <span style="color: #a5d6ff;">"FastAPI"</span>, <span style="color: #a5d6ff;">"Docker"</span>],
-  <span style="color: #7ee787;">coreDirective</span>: <span style="color: #a5d6ff;">"Build ultra-scalable systems with futuristic UI/UX"</span>,
-  <span style="color: #7ee787;">coffeeEfficiency</span>: <span style="color: #79c0ff;">99.99</span>,
-  <span style="color: #d2a8ff;">execute</span>() {
-    <span style="color: #ff7b72;">return</span> <span style="color: #a5d6ff;">"Pushing boundaries across web, cloud, and intelligence 🌌"</span>;
-  }
-};</code></pre>
+    <td width="60%" valign="top">
+      <h3>🌟 <b>About Me & Core Directive</b></h3>
+      <p>I'm a <b>Full-Stack Software Engineer</b> and <b>AI Specialist</b> passionate about engineering high-performance web applications, resilient distributed systems, and cutting-edge artificial intelligence solutions.</p>
+      <ul>
+        <li>🚀 <b>Background</b>: Crafting scalable cloud systems, high-speed APIs, and dynamic web experiences.</li>
+        <li>🔭 <b>Currently Building</b>: Next-gen intelligent apps, autonomous AI pipelines, and distributed architectures.</li>
+        <li>🧠 <b>Deep Dives</b>: Deep Learning architectures, LLM orchestration, and modern cloud deployment patterns.</li>
+        <li>💬 <b>Ask Me About</b>: <b>React, Next.js, TypeScript, Python, PyTorch, FastAPI, Node.js & Docker</b>.</li>
+        <li>⚡ <b>Fun Fact</b>: Turning complex problems into elegant, production-ready code powered by coffee! ☕⚡</li>
+      </ul>
     </td>
-    <td width="45%" align="center" valign="middle" style="padding: 20px;">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" style="border-radius: 12px; box-shadow: 0 0 25px #00f5ff44;" alt="Cyber Developer GIF" />
+    <td width="40%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="3D Holographic Developer Animation" />
     </td>
   </tr>
 </table>
+
+<br/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="25px" />
@@ -62,40 +60,36 @@
   <br/>
 </div>
 
-<!-- ==================== ⚡ 3D TECH STACK TILES ==================== -->
-<table align="center" width="100%" style="border-collapse: collapse;">
-  <tr>
-    <td align="center" style="padding: 12px; background: rgba(13, 17, 23, 0.8); border: 1px solid #21262d; border-radius: 10px;">
-      <h4>🌐 Frontend & Creative UI</h4>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,vite,redux,sass,threejs,figma&perline=6&theme=dark" alt="Frontend Arsenal" />
-      </a>
-    </td>
-    <td width="20px"></td>
-    <td align="center" style="padding: 12px; background: rgba(13, 17, 23, 0.8); border: 1px solid #21262d; border-radius: 10px;">
-      <h4>⚙️ Backend & API Engineering</h4>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask,graphql,postman,nestjs,workers,go,java,c&perline=6&theme=dark" alt="Backend Arsenal" />
-      </a>
-    </td>
-  </tr>
-  <tr><td height="15px"></td></tr>
-  <tr>
-    <td align="center" style="padding: 12px; background: rgba(13, 17, 23, 0.8); border: 1px solid #21262d; border-radius: 10px;">
-      <h4>🧠 Artificial Intelligence & ML</h4>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,scikitlearn,numpy,pandas,matlab,r&perline=6&theme=dark" alt="AI & ML" />
-      </a>
-    </td>
-    <td width="20px"></td>
-    <td align="center" style="padding: 12px; background: rgba(13, 17, 23, 0.8); border: 1px solid #21262d; border-radius: 10px;">
-      <h4>🗄️ Database, Cloud & DevOps</h4>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker,kubernetes,aws,gcp,git,github,githubactions,linux&perline=6&theme=dark" alt="DevOps & Databases" />
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- ==================== 🛠️ MASTER TECH MATRIX & ARSENAL ==================== -->
+<div align="center">
+
+  <h4>🌐 Frontend & Web Technologies</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,vite,redux,sass,threejs,figma&perline=12&theme=dark" alt="Frontend" />
+  </a>
+  
+  <br/><br/>
+
+  <h4>⚙️ Backend & API Architecture</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask,graphql,postman,nestjs,go,java,c,cpp&perline=12&theme=dark" alt="Backend" />
+  </a>
+
+  <br/><br/>
+
+  <h4>🧠 AI, Machine Learning & Data</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,scikitlearn,numpy,pandas,matlab,r&perline=12&theme=dark" alt="AI & ML" />
+  </a>
+
+  <br/><br/>
+
+  <h4>🗄️ Databases, Cloud & DevOps Tools</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker,kubernetes,aws,gcp,git,github,githubactions,linux,vscode,ubuntu,bash,vercel&perline=16&theme=dark" alt="DevOps" />
+  </a>
+
+</div>
 
 <br/>
 
@@ -240,24 +234,20 @@
   <br/>
 
   <p align="center">
-    <a href="mailto:contact@saptarshi.dev">
+    <a href="mailto:saptarshi.maiti1004@gmail.com">
       <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    &nbsp;
-    <a href="https://linkedin.com/in/">
-      <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
     <a href="https://github.com/Fdubois123">
       <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     &nbsp;
-    <a href="https://twitter.com/">
-      <img src="https://img.shields.io/badge/X_TWITTER-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+    <a href="https://www.instagram.com/saptarshi__1004?igsi=ano5MTJ2cG1qbm81">
+      <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     &nbsp;
-    <a href="https://discord.com/">
-      <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <a href="https://linkedin.com/in/">
+      <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
 
