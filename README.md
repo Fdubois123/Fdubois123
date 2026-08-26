@@ -3,8 +3,7 @@
   <!-- ==================== 🚀 3D HOLOGRAPHIC CYBER HEADER ==================== -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,20,30&height=260&section=header&text=Saptarshi%20Maiti&fontSize=54&fontColor=ffffff&animation=twinkling&desc=FULL%20STACK%20ARCHITECT%20%7C%20AI%20SYSTEMS%20%7C%20CREATIVE%20ENGINEER&descFontSize=20&descAlignY=68" width="100%" alt="3D Neon Cyber Header" />
 
-  <!-- Animated Glowing Divider -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="40px" alt="Glowing Divider" />
+  <br/>
 
   <!-- ==================== ⚡ DYNAMIC NEON TYPING HUD ==================== -->
   <a href="https://github.com/Fdubois123">
@@ -12,24 +11,28 @@
   </a>
 
   <br/>
+  <br/>
 
   <!-- ==================== 💫 3D FLOATING HUD BADGES ==================== -->
   <p align="center">
     <a href="https://github.com/Fdubois123">
       <img src="https://img.shields.io/github/followers/Fdubois123?label=GITHUB%20NETWORK&logo=github&style=for-the-badge&color=050505&logoColor=00F5FF&labelColor=0d1117" alt="Followers" />
     </a>
+    &nbsp;
     <a href="https://github.com/Fdubois123?tab=repositories">
       <img src="https://img.shields.io/github/stars/Fdubois123?label=TOTAL%20STARS&logo=star&style=for-the-badge&color=050505&logoColor=FFD700&labelColor=0d1117" alt="Stars" />
     </a>
+    &nbsp;
     <a href="https://komarev.com/ghpvc/?username=Fdubois123&style=for-the-badge&color=00F5FF&label=PROFILE%20RADAR&labelColor=0d1117">
       <img src="https://komarev.com/ghpvc/?username=Fdubois123&style=for-the-badge&color=00F5FF&label=PROFILE%20RADAR&labelColor=0d1117" alt="Profile Views" />
     </a>
+    &nbsp;
     <img src="https://img.shields.io/badge/STATUS-READY_TO_BUILD-00FF88?style=for-the-badge&logo=codefactor&logoColor=white&labelColor=0d1117" alt="Status" />
   </p>
 
 </div>
 
-<br/>
+<hr/>
 
 <!-- ==================== 🌟 ABOUT ME & 3D CYBER DEVELOPER ==================== -->
 <table width="100%" border="0" style="border-collapse: collapse;">
@@ -46,48 +49,68 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="3D Holographic Developer Animation" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 12px; border: 1px solid #00F5FF44;" alt="Developer Coding Animation" />
     </td>
   </tr>
 </table>
 
-<br/>
+<hr/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="25px" />
   <h2>🛠️ MASTER TECH MATRIX & ARSENAL</h2>
   <p><i>High-performance languages, frameworks, AI libraries, and cloud infrastructure</i></p>
   <br/>
 </div>
 
-<!-- ==================== 🛠️ MASTER TECH MATRIX & ARSENAL ==================== -->
+<!-- ==================== 🛠️ MASTER TECH MATRIX & 4-QUADRANT ARSENAL ==================== -->
 <div align="center">
 
-  <h4>🌐 Frontend & Web Technologies</h4>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,vite,redux,sass,threejs,figma&perline=12&theme=dark" alt="Frontend" />
-  </a>
-  
-  <br/><br/>
-
-  <h4>⚙️ Backend & API Architecture</h4>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask,graphql,postman,nestjs,go,java,c,cpp&perline=12&theme=dark" alt="Backend" />
+  <!-- Animated Dynamic Tech Stack Radar HUD -->
+  <a href="https://github.com/Fdubois123">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2400&pause=700&color=00F5FF&center=true&vCenter=true&width=720&lines=CORE_STACK%3A+React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind+CSS;BACKEND%3A+Node.js+%E2%80%A2+FastAPI+%E2%80%A2+Python+%E2%80%A2+Express+%E2%80%A2+GraphQL;AI+%26+ML%3A+PyTorch+%E2%80%A2+TensorFlow+%E2%80%A2+OpenCV+%E2%80%A2+Scikit-Learn;INFRASTRUCTURE%3A+Docker+%E2%80%A2+PostgreSQL+%E2%80%A2+MongoDB+%E2%80%A2+Redis" alt="Tech Stack Radar" />
   </a>
 
   <br/><br/>
 
-  <h4>🧠 AI, Machine Learning & Data</h4>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,scikitlearn,numpy,pandas,matlab,r&perline=12&theme=dark" alt="AI & ML" />
-  </a>
-
-  <br/><br/>
-
-  <h4>🗄️ Databases, Cloud & DevOps Tools</h4>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker,kubernetes,aws,gcp,git,github,githubactions,linux,vscode,ubuntu,bash,vercel&perline=16&theme=dark" alt="DevOps" />
-  </a>
+  <!-- 4-Quadrant Exact Matched Grid -->
+  <table border="1" width="100%" style="border-collapse: collapse; border: 1px solid #30363d; background: #0d1117;">
+    <tr>
+      <!-- Top Left: Frontend & Creative UI -->
+      <td width="50%" align="center" valign="middle" style="padding: 16px; border: 1px solid #30363d;">
+        <h4>🌐 <b>Frontend & Creative UI</b></h4>
+        <br/>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,vite,redux,sass,threejs,figma&perline=6&theme=dark" alt="Frontend & Creative UI" />
+        </a>
+      </td>
+      <!-- Top Right: Backend & API Engineering -->
+      <td width="50%" align="center" valign="middle" style="padding: 16px; border: 1px solid #30363d;">
+        <h4>⚙️ <b>Backend & API Engineering</b></h4>
+        <br/>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask,graphql,postman,nestjs,aws,go,java,c&perline=6&theme=dark" alt="Backend & API Engineering" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <!-- Bottom Left: Artificial Intelligence & ML -->
+      <td width="50%" align="center" valign="middle" style="padding: 16px; border: 1px solid #30363d;">
+        <h4>🧠 <b>Artificial Intelligence & ML</b></h4>
+        <br/>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,scikitlearn,matlab,r&perline=4&theme=dark" alt="Artificial Intelligence & ML" />
+        </a>
+      </td>
+      <!-- Bottom Right: Database, Cloud & DevOps -->
+      <td width="50%" align="center" valign="middle" style="padding: 16px; border: 1px solid #30363d;">
+        <h4>🗄️ <b>Database, Cloud & DevOps</b></h4>
+        <br/>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker,kubernetes,aws,gcp,git,github,githubactions,linux&perline=6&theme=dark" alt="Database, Cloud & DevOps" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
@@ -95,8 +118,6 @@
 
 <!-- ==================== 📊 MISSION CONTROL & LIVE ANALYTICS ==================== -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="25px" />
-  
   <h2>📊 MISSION CONTROL & REPOSITORY ANALYTICS</h2>
   <p><i>Real-time statistics, commit distribution, and language metrics</i></p>
 
@@ -132,11 +153,10 @@
 
 </div>
 
-<br/>
+<hr/>
 
 <!-- ==================== 🚀 FEATURED PROJECTS & FLAGSHIP CREATIONS ==================== -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="25px" />
   <h2>🚀 FEATURED PROJECTS & FLAGSHIP CREATIONS</h2>
   <p><i>Highlighted engineering projects spanning AI systems, scalable cloud platforms, and modern web apps</i></p>
   <br/>
@@ -173,9 +193,10 @@
 
 </div>
 
+<hr/>
+
 <!-- ==================== 🎯 ACTIVE FOCUS & ENGINEERING ROADMAP ==================== -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="25px" />
   <h2>🎯 ACTIVE RESEARCH & ENGINEERING DIRECTIVES</h2>
   <p><i>Core engineering thrusts and bleeding-edge technologies under active development</i></p>
   <br/>
@@ -223,11 +244,10 @@
   - 🛠️ **DevOps & Tooling**: Docker Containerization, GitHub Actions Workflows, Linux Server Management, Git Version Control.
 </details>
 
-<br/>
+<hr/>
 
 <!-- ==================== 📬 QUANTUM RADAR & TRANSMISSIONS ==================== -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="25px" />
   <h2>📡 OPEN TRANSMISSION CHANNELS</h2>
   <p><i>Feel free to reach out for collaborations, project inquiries, or tech talks!</i></p>
 
